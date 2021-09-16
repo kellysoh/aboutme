@@ -3,7 +3,7 @@ import React from 'react';
 
 const Timeline = () => {
     return ( 
-        <nav > </nav>
+        <p>This section is for timeline</p>
         //dosomething;
     );
 }

@@ -3,7 +3,7 @@ import React from 'react';
 
 const Card = () => {
     return ( 
-        <nav > </nav>
+       <p>This section is for modal card. </p>
         //dosomething;
     );
 }

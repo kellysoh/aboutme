@@ -1,15 +1,17 @@
+import React, { Component } from 'react';
 import './App.css';
+import {About,Card,Index, Navigation, Timeline} from './components';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Hello, this is Kelly Oh!
-        </p>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div> 
+        <Navigation /> 
+        <About />
+        <Timeline />
+      </div>
+    );
+  }
 }
 
 export default App;
