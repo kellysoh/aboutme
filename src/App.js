@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import {About,Card, Navigation, Timeline} from './components';
+import {About, Navigation, Timeline} from './components';
 
 class App extends Component {
   render() {
