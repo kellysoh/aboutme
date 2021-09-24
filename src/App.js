@@ -29,10 +29,11 @@ render() {
     <div> 
       <Navigation /> 
       <About />
-      <TimelinePage oncClick ={this.showModal} />
       <Modal show={this.state.show} handleClose={this.hideModal}>
         <p>Modal</p>
       </Modal>
+      <TimelinePage oncClick ={this.showModal} />
+
     </div>
   );
 }
