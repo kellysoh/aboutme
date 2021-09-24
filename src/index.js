@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import {Timeline, TimelineItem } from 'vertical-timeline-component-for-react';
+import {Timeline, TimelineItem } from 'vertical-timeline-component-for-react/node';
 
 
 ReactDOM.render(
