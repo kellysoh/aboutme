@@ -9,5 +9,3 @@
 
 # 참고 자료 
 https://velog.io/@hidaehyunlee/React-Component%EB%A1%9C-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%98%EA%B8%B0 
-
-# 음 폴더 설계부터 Component 설계부터 해보는게 좋겠다. 
